@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29fd6d25-58cc-494a-b7a2-d7941d70bed5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ecommerce.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +127,7 @@
       <workItem from="1610598047488" duration="106000" />
       <workItem from="1610860214332" duration="18585000" />
       <workItem from="1610895576160" duration="20000" />
+      <workItem from="1611052614296" duration="244000" />
     </task>
     <servers />
   </component>
